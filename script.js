@@ -19,7 +19,7 @@ updateQuestions();
 
 function updateQuestions()
 {
-  index = Math.floor(Math.random() * questions.length);
+  let index = Math.floor(Math.random() * questions.length);
   questionText.innerText = questions[index].Pregunta;
   option_a.innerText= questions[index].respuesta_a;
   option_b.innerText= questions[index].respuesta_b;
