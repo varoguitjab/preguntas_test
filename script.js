@@ -1,10 +1,10 @@
 let questions = [];
 
 const questionText = document.getElementById('question');
-const option_a = document.getElementById('option-a p');
-const option_b = document.getElementById('option-b p');
-const option_c = document.getElementById('option-c p');
-const option_d = document.getElementById('option-d p');
+const option_a = document.querySelector('#option-a p');
+const option_b = document.querySelector('#option-b p');
+const option_c = document.querySelector('#option-c p');
+const option_d = document.querySelector('#option-d p');
 try {
   // El código se detiene aquí hasta que el fetch responde (sin congelar la web)
   const response = await fetch('./csvs/preguntas_decreto_150_2022.json');
