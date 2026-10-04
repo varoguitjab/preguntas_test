@@ -1,7 +1,8 @@
+const questions = [];
 try {
   // El código se detiene aquí hasta que el fetch responde (sin congelar la web)
   const response = await fetch('./csvs/preguntas_decreto_150_2022.json');
-  let questions = await response.json();
+  questions = await response.json();
 
   console.log(questions);
 
