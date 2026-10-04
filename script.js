@@ -1,12 +1,13 @@
-console.log('hola');
-const response = fetch('./csvs/preguntas_decreto_150_2022.json');
-const questions = response.json();
-question_text = document.getElementById('question');
-updateQuestions();
-console.log(questions);
+try {
+  // El código se detiene aquí hasta que el fetch responde (sin congelar la web)
+  const response = await fetch('./csvs/preguntas_decreto_150_2022.json');
+  const questions = await response.json();
 
+  console.log(questions);
 
-function updateQuestions()
-{
-  question_text.innerText = questions[0].Pregunta;
+  const questionText = document.getElementById('question');
+  questionText.innerText = questions[0].Pregunta;
+
+} catch (error) {
+  console.error('Hubo un problema:', error);
 }
