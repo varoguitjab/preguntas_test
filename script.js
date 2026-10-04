@@ -1,5 +1,4 @@
-<script>
-  console.log('hola');
+console.log('hola');
 fetch('./csvs/preguntas_decreto_150_2022.json')
   .then(response => response.json())
   .then(data => {
@@ -9,4 +8,4 @@ fetch('./csvs/preguntas_decreto_150_2022.json')
     });
   })
   .catch(error => console.error('Error:', error));
-<script>
+
