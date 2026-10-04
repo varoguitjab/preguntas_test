@@ -10,10 +10,20 @@ try {
   const option_b = document.getElementById('option-b');
   const option_c = document.getElementById('option-c');
   const option_d = document.getElementById('option-d');
+  updateQuestions();
   
-  index = 0;
-  questionText.innerText = questions[index].Pregunta;
 
 } catch (error) {
   console.error('Hubo un problema:', error);
+}
+
+function updateQuestions()
+{
+  index = Math.floor(Math.random() * questions.length);
+  questionText.innerText = questions[index].Pregunta;
+  document.querySelector('#option-a p').innerText= questions[index].respuesta_a;
+  document.querySelector('#option-b p').innerText= questions[index].respuesta_b;
+  document.querySelector('#option-c p').innerText= questions[index].respuesta_c;
+  document.querySelector('#option-d p').innerText= questions[index].respuesta_d;
+
 }
