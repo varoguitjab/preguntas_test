@@ -40,4 +40,9 @@ function updateQuestions()
   option_b.innerText= questions[index].respuesta_b;
   option_c.innerText= questions[index].respuesta_c;
   option_d.innerText= questions[index].respuesta_d;
+  
+  document.querySelectorAll('.option').forEach(option => {
+    option.classList.remove('correct');
+    option.classList.remove('incorrect');
+  });
 }
