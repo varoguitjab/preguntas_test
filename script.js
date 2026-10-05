@@ -1,4 +1,5 @@
 let questions = [];
+let index = 0;
 
 const questionText = document.getElementById('question');
 const option_a = document.querySelector('#option-a p');
@@ -21,9 +22,17 @@ document.getElementById('btn-next').addEventListener('click', () => {
   updateQuestions();
 });
 
+// Seleccionamos todas las opciones y les añadimos el evento de clic
+document.querySelectorAll('.option').forEach(option => {
+  option.addEventListener('click', (event) => {        
+    document.querySelectorAll('.option').forEach(opt => opt.classList.remove('incorrect'));    
+    event.currentTarget.classList.add('incorrect');        
+  });
+});
+
 function updateQuestions()
 {
-  let index = Math.floor(Math.random() * questions.length);
+  index = Math.floor(Math.random() * questions.length);
   questionText.innerText = questions[index].Pregunta;
   option_a.innerText= questions[index].respuesta_a;
   option_b.innerText= questions[index].respuesta_b;
