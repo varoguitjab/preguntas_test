@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -39,6 +37,7 @@
       display: flex;
       flex-direction: column;
       gap: 14px;
+      margin-bottom: 25px; /* Espacio antes del botón siguiente */
     }
 
     .option {
@@ -85,6 +84,31 @@
       font-weight: bold;
     }
 
+    /* --- ESTILOS PARA EL BOTÓN SIGUIENTE --- */
+    #btn-next {
+      display: block;
+      width: 100%;
+      padding: 16px 20px;
+      background-color: #2563eb;
+      color: #ffffff;
+      border: none;
+      border-radius: 10px;
+      font-size: 16px;
+      font-weight: bold;
+      cursor: pointer;
+      transition: background-color 0.2s, transform 0.1s;
+      text-align: center;
+    }
+
+    #btn-next:hover {
+      background-color: #1d4ed8;
+    }
+
+    #btn-next:active {
+      transform: scale(0.99);
+    }
+    /* ------------------------------------- */
+
     @media (max-width: 500px) {
       .quiz-container {
         margin: 20px auto;
@@ -106,36 +130,37 @@
 <body>
 
   <main class="quiz-container">
-    <h1 id="question">
-      ¿Cuál es la finalidad principal de una norma jurídica?
-    </h1>
+    <h1 id="question">¿Qué pretende mejorar el plan digital de centro?</h1>
 
     <div class="options">
       <button id="option-a" class="option" type="button">
         <span class="letter">A</span>
-        <p>Regular la convivencia social.</p>
+        <p>La competencia digital, el uso de tecnologías en enseñanza-aprendizaje y la transformación digital del centro</p>
       </button>
 
       <button id="option-b" class="option" type="button">
         <span class="letter">B</span>
-        <p>Establecer únicamente obligaciones fiscales.</p>
+        <p>Solo la velocidad de conexión</p>
       </button>
 
       <button id="option-c" class="option" type="button">
         <span class="letter">C</span>
-        <p>Sustituir todas las decisiones judiciales.</p>
+        <p>Únicamente la gestión administrativa</p>
       </button>
 
       <button id="option-d" class="option" type="button">
         <span class="letter">D</span>
-        <p>Eliminar las competencias administrativas.</p>
+        <p>Solo las competencias de la dirección</p>
       </button>
     </div>
-    <button id="btn-next" class="" type="button">
-        Siguiente        
-      </button>
+
+    <!-- Botón con ID listo para interactuar con tu JS -->
+    <button id="btn-next" type="button">
+      Siguiente
+    </button>
   </main>
 
-</body>
 <script type="module" src="script.js"></script>
+
+</body>
 </html>
