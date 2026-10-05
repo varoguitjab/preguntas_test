@@ -5,7 +5,7 @@
     "respuesta_b": "Decreto 330/2009, de 4 de junio",
     "respuesta_c": "Real decreto 95/2020, de 1 de febrero",
     "respuesta_d": "Ley 4/2011, de 30 de junio",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Cuál es el objeto principal del Decreto 150/2022?",
@@ -13,7 +13,7 @@
     "respuesta_b": "Establecer la ordenación y el currículo de educación infantil en Galicia",
     "respuesta_c": "Regular exclusivamente las escuelas infantiles de primer ciclo",
     "respuesta_d": "Fijar el calendario de todas las etapas educativas",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿A qué centros se aplica el Decreto 150/2022?",
@@ -21,7 +21,7 @@
     "respuesta_b": "Solo a centros privados",
     "respuesta_c": "A centros del ámbito de gestión de Galicia que impartan educación infantil",
     "respuesta_d": "Solo a centros que impartan primaria",
-    "Opcion correcta": "C"
+    "opcion_correcta": "C"
   },
   {
     "Pregunta": "¿A qué centros se aplican los títulos II y III del decreto?",
@@ -29,7 +29,7 @@
     "respuesta_b": "Solo a los que impartan el primer ciclo",
     "respuesta_c": "A todos los centros universitarios",
     "respuesta_d": "Solo a centros de educación especial",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Desde qué edad atiende la etapa de educación infantil?",
@@ -37,7 +37,7 @@
     "respuesta_b": "Desde el nacimiento",
     "respuesta_c": "Desde los tres años",
     "respuesta_d": "Desde los seis meses",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Hasta qué edad atiende la educación infantil?",
@@ -45,7 +45,7 @@
     "respuesta_b": "Hasta los cinco años",
     "respuesta_c": "Hasta los seis años",
     "respuesta_d": "Hasta los ocho años",
-    "Opcion correcta": "C"
+    "opcion_correcta": "C"
   },
   {
     "Pregunta": "¿Cómo se organiza la educación infantil?",
@@ -53,7 +53,7 @@
     "respuesta_b": "En dos ciclos",
     "respuesta_c": "En etapas trimestrales",
     "respuesta_d": "En un único ciclo",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué edades comprende el primer ciclo de educación infantil?",
@@ -61,7 +61,7 @@
     "respuesta_b": "De seis a nueve años",
     "respuesta_c": "Hasta los tres años",
     "respuesta_d": "De cuatro a seis años",
-    "Opcion correcta": "C"
+    "opcion_correcta": "C"
   },
   {
     "Pregunta": "¿Qué edades comprende el segundo ciclo de educación infantil?",
@@ -69,7 +69,7 @@
     "respuesta_b": "Del nacimiento a los dos años",
     "respuesta_c": "De dos a cuatro años",
     "respuesta_d": "De seis a ocho años",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Cuál es el carácter de la educación infantil?",
@@ -77,7 +77,7 @@
     "respuesta_b": "Voluntario",
     "respuesta_c": "Obligatorio desde los tres años",
     "respuesta_d": "Voluntario solo en el segundo ciclo",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué ciclo de educación infantil es gratuito según el decreto?",
@@ -85,7 +85,7 @@
     "respuesta_b": "Ambos ciclos necesariamente",
     "respuesta_c": "El segundo ciclo",
     "respuesta_d": "Ninguno",
-    "Opcion correcta": "C"
+    "opcion_correcta": "C"
   },
   {
     "Pregunta": "¿Qué se prevé respecto a la gratuidad del primer ciclo?",
@@ -93,7 +93,7 @@
     "respuesta_b": "Su extensión progresiva, con oferta pública suficiente",
     "respuesta_c": "Que sea gratuito solo en centros privados",
     "respuesta_d": "Que dependa exclusivamente de cada familia",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿A qué alumnado se prioriza al extender la gratuidad del primer ciclo?",
@@ -101,7 +101,7 @@
     "respuesta_b": "Alumnado en riesgo de pobreza y exclusión social y donde haya baja escolarización",
     "respuesta_c": "Solo alumnado de zonas urbanas",
     "respuesta_d": "Solo alumnado de seis años",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué principio debe guiar las medidas organizativas, metodológicas y curriculares?",
@@ -109,7 +109,7 @@
     "respuesta_b": "El diseño universal para el aprendizaje",
     "respuesta_c": "La homogeneización absoluta",
     "respuesta_d": "La evaluación exclusivamente escrita",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Cuál es la finalidad de la educación infantil?",
@@ -117,7 +117,7 @@
     "respuesta_b": "Contribuir al desarrollo integral y armónico del alumnado",
     "respuesta_c": "Adelantar todos los contenidos de primaria",
     "respuesta_d": "Garantizar la alfabetización completa antes de los seis años",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué dimensiones del desarrollo menciona el artículo 4?",
@@ -125,7 +125,7 @@
     "respuesta_b": "Física, emocional, sexual, afectiva, social, cognitiva y artística",
     "respuesta_c": "Solo lingüística y matemática",
     "respuesta_d": "Únicamente social y artística",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué debe potenciar la educación infantil en relación con la persona?",
@@ -133,7 +133,7 @@
     "respuesta_b": "La autonomía personal y una imagen positiva y equilibrada de sí misma",
     "respuesta_c": "La memorización de normas sin explicación",
     "respuesta_d": "La especialización académica temprana",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué integra el currículo de educación infantil según el artículo 6?",
@@ -141,7 +141,7 @@
     "respuesta_b": "Objetivos, competencias, contenidos, métodos pedagógicos y criterios de evaluación",
     "respuesta_c": "Solo objetivos y calificaciones",
     "respuesta_d": "Actividades extraescolares y calendario",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué son los objetivos de etapa?",
@@ -149,7 +149,7 @@
     "respuesta_b": "Logros esperados al finalizar la etapa vinculados a las competencias clave",
     "respuesta_c": "Las notas mínimas para promocionar",
     "respuesta_d": "Las tareas exclusivas del profesorado",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué son las competencias clave?",
@@ -157,7 +157,7 @@
     "respuesta_b": "Una lista cerrada de asignaturas",
     "respuesta_c": "Instrumentos de calificación numérica",
     "respuesta_d": "Contenidos propios de una única área",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Con qué se corresponden los objetivos de área?",
@@ -165,7 +165,7 @@
     "respuesta_b": "Con los objetivos de bachillerato",
     "respuesta_c": "Con los criterios de admisión",
     "respuesta_d": "Con las normas de convivencia del centro",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué función cumplen los criterios de evaluación?",
@@ -173,7 +173,7 @@
     "respuesta_b": "Indicar los niveles de desempeño esperados y servir de referente para evaluar",
     "respuesta_c": "Determinar el calendario escolar",
     "respuesta_d": "Establecer la ratio de alumnado",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué son los contenidos curriculares?",
@@ -181,7 +181,7 @@
     "respuesta_b": "Conocimientos, destrezas y actitudes propios de un área",
     "respuesta_c": "Solo actividades de juego libre",
     "respuesta_d": "Normas administrativas del centro",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Para qué sirven las orientaciones pedagógicas?",
@@ -189,7 +189,7 @@
     "respuesta_b": "Para fijar las vacaciones escolares",
     "respuesta_c": "Para asignar plazas docentes",
     "respuesta_d": "Para establecer la edad de escolarización obligatoria",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Cuál de estos es un objetivo general de la etapa?",
@@ -197,7 +197,7 @@
     "respuesta_b": "Conocer el propio cuerpo y el de otras personas y respetar las diferencias",
     "respuesta_c": "Aprender una lengua extranjera con nivel avanzado",
     "respuesta_d": "Realizar exámenes escritos semanales",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué entorno se propone observar y explorar?",
@@ -205,7 +205,7 @@
     "respuesta_b": "El familiar, natural y social",
     "respuesta_c": "Solo el escolar",
     "respuesta_d": "Exclusivamente el urbano",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué habilidad personal se pretende adquirir progresivamente?",
@@ -213,7 +213,7 @@
     "respuesta_b": "Autonomía en las actividades habituales",
     "respuesta_c": "Competencia profesional",
     "respuesta_d": "Especialización deportiva",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué tipo de resolución de conflictos se fomenta?",
@@ -221,7 +221,7 @@
     "respuesta_b": "La resolución pacífica, evitando cualquier tipo de violencia",
     "respuesta_c": "La exclusión del alumnado implicado",
     "respuesta_d": "La competición como única solución",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué se pretende desarrollar en comunicación?",
@@ -229,7 +229,7 @@
     "respuesta_b": "Habilidades comunicativas en diferentes lenguajes y formas de expresión",
     "respuesta_c": "Únicamente la expresión oral formal",
     "respuesta_d": "Solo el lenguaje matemático",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿En qué habilidades se inicia al alumnado de forma progresiva?",
@@ -237,7 +237,7 @@
     "respuesta_b": "Solo cálculo escrito",
     "respuesta_c": "Solo lectura comprensiva avanzada",
     "respuesta_d": "Programación informática obligatoria",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué igualdad se busca promover mediante normas sociales?",
@@ -245,7 +245,7 @@
     "respuesta_b": "Igualdad entre mujeres y hombres",
     "respuesta_c": "Igualdad de resultados académicos exactos",
     "respuesta_d": "Igualdad lingüística mediante una sola lengua",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué singularidades se propone conocer y valorar?",
@@ -253,7 +253,7 @@
     "respuesta_b": "Las culturales, lingüísticas, físicas y sociales de Galicia",
     "respuesta_c": "Únicamente las geográficas",
     "respuesta_d": "Solo las históricas de otros países",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Cuántas competencias clave enumera el decreto?",
@@ -261,7 +261,7 @@
     "respuesta_b": "Siete",
     "respuesta_c": "Ocho",
     "respuesta_d": "Diez",
-    "Opcion correcta": "C"
+    "opcion_correcta": "C"
   },
   {
     "Pregunta": "¿Qué sigla corresponde a la competencia en comunicación lingüística?",
@@ -269,7 +269,7 @@
     "respuesta_b": "CCL",
     "respuesta_c": "CD",
     "respuesta_d": "CCEC",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué sigla corresponde a la competencia plurilingüe?",
@@ -277,7 +277,7 @@
     "respuesta_b": "CE",
     "respuesta_c": "CC",
     "respuesta_d": "STEM",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué competencia representa STEM?",
@@ -285,7 +285,7 @@
     "respuesta_b": "Competencia matemática y en ciencia, tecnología e ingeniería",
     "respuesta_c": "Competencia ciudadana",
     "respuesta_d": "Conciencia y expresión culturales",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué sigla identifica la competencia digital?",
@@ -293,7 +293,7 @@
     "respuesta_b": "CC",
     "respuesta_c": "CP",
     "respuesta_d": "CPSAA",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué competencia representa CPSAA?",
@@ -301,7 +301,7 @@
     "respuesta_b": "Competencia plurilingüe",
     "respuesta_c": "Competencia emprendedora",
     "respuesta_d": "Competencia en comunicación lingüística",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué sigla corresponde a la competencia ciudadana?",
@@ -309,7 +309,7 @@
     "respuesta_b": "CC",
     "respuesta_c": "CD",
     "respuesta_d": "CCL",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué sigla corresponde a la competencia emprendedora?",
@@ -317,7 +317,7 @@
     "respuesta_b": "CE",
     "respuesta_c": "CP",
     "respuesta_d": "STEM",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué competencia corresponde a CCEC?",
@@ -325,7 +325,7 @@
     "respuesta_b": "Conciencia y expresión culturales",
     "respuesta_c": "Competencia digital",
     "respuesta_d": "Competencia matemática",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Existe jerarquía entre las competencias clave?",
@@ -333,7 +333,7 @@
     "respuesta_b": "Sí, la lingüística es siempre prioritaria",
     "respuesta_c": "No, todas se consideran igualmente importantes",
     "respuesta_d": "Sí, solo cuentan las tres primeras",
-    "Opcion correcta": "C"
+    "opcion_correcta": "C"
   },
   {
     "Pregunta": "¿Las competencias clave se corresponden directa y exclusivamente con una única área?",
@@ -341,7 +341,7 @@
     "respuesta_b": "No, tienen carácter transversal y se desarrollan desde distintas áreas",
     "respuesta_c": "Solo las competencias artísticas",
     "respuesta_d": "Solo en el primer ciclo",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Cuáles son las tres áreas de educación infantil?",
@@ -349,7 +349,7 @@
     "respuesta_b": "Comunicación y Representación de la Realidad; Crecimiento en Armonía; Descubrimiento y Exploración del Entorno",
     "respuesta_c": "Juego, Lectura y Escritura",
     "respuesta_d": "Desarrollo personal, Inglés y Tecnología",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué elementos incluye la estructura curricular de cada área en el anexo II?",
@@ -357,7 +357,7 @@
     "respuesta_b": "Introducción, objetivos, criterios de evaluación y contenidos por ciclos, y orientaciones pedagógicas",
     "respuesta_c": "Solo competencias clave",
     "respuesta_d": "Únicamente una lista de actividades",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Los bloques de criterios y contenidos establecen una secuencia cerrada?",
@@ -365,7 +365,7 @@
     "respuesta_b": "No, permiten organizar los elementos de distintas formas",
     "respuesta_c": "Solo en el segundo ciclo",
     "respuesta_d": "Solo para centros privados",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Cómo se entiende el horario en educación infantil?",
@@ -373,7 +373,7 @@
     "respuesta_b": "Como distribución temporal de actividades, dado que todos los momentos de la jornada son educativos",
     "respuesta_c": "Como tiempo dedicado solo a tareas lectivas",
     "respuesta_d": "Como una decisión exclusiva de las familias",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Cómo debe organizarse el horario escolar?",
@@ -381,7 +381,7 @@
     "respuesta_b": "Solo mediante sesiones iguales",
     "respuesta_c": "Sin períodos de descanso",
     "respuesta_d": "Con prioridad absoluta para fichas escritas",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Cuántas horas semanales como mínimo deben desarrollarse las actividades escolares del segundo ciclo?",
@@ -389,7 +389,7 @@
     "respuesta_b": "22 horas",
     "respuesta_c": "25 horas",
     "respuesta_d": "30 horas",
-    "Opcion correcta": "C"
+    "opcion_correcta": "C"
   },
   {
     "Pregunta": "¿Qué autonomía tienen los centros docentes?",
@@ -397,7 +397,7 @@
     "respuesta_b": "Pedagógica, organizativa y de gestión, dentro de la normativa",
     "respuesta_c": "Ninguna autonomía curricular",
     "respuesta_d": "Únicamente para elegir libros",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué debe adaptar el centro al desarrollar y completar el currículo?",
@@ -405,7 +405,7 @@
     "respuesta_b": "Las características personales del alumnado y su realidad socioeducativa",
     "respuesta_c": "Los criterios de admisión estatales",
     "respuesta_d": "La edad de inicio de la etapa",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué documento recoge la propuesta pedagógica del centro?",
@@ -413,7 +413,7 @@
     "respuesta_b": "El proyecto educativo",
     "respuesta_c": "El acta de evaluación",
     "respuesta_d": "El informe por traslado",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Quién establece la concreción curricular del segundo ciclo?",
@@ -421,7 +421,7 @@
     "respuesta_b": "Cada familia individualmente",
     "respuesta_c": "La inspección educativa en exclusiva",
     "respuesta_d": "El ayuntamiento",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Cuál de estos elementos debe incluir la concreción curricular?",
@@ -429,7 +429,7 @@
     "respuesta_b": "El salario de cada docente",
     "respuesta_c": "El listado de todas las familias",
     "respuesta_d": "La programación de cada hogar",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué debe incluir la concreción curricular sobre metodología?",
@@ -437,7 +437,7 @@
     "respuesta_b": "Una metodología idéntica e invariable para cada alumno",
     "respuesta_c": "Solo pruebas escritas",
     "respuesta_d": "Ninguna referencia metodológica",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Cómo se desarrollará el currículo del segundo ciclo en las áreas?",
@@ -445,7 +445,7 @@
     "respuesta_b": "Mediante un único examen final",
     "respuesta_c": "Exclusivamente mediante actividades extraescolares",
     "respuesta_d": "Solo a través del plan digital",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué deben incluir las programaciones didácticas sobre unidades?",
@@ -453,7 +453,7 @@
     "respuesta_b": "Solo sus títulos, sin orden ni tiempo",
     "respuesta_c": "Únicamente unidades optativas",
     "respuesta_d": "Solo actividades del primer trimestre",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué deben incluir las programaciones en el apartado de evaluación?",
@@ -461,7 +461,7 @@
     "respuesta_b": "Solo una nota numérica final",
     "respuesta_c": "Únicamente asistencia",
     "respuesta_d": "Solo pruebas externas",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Quién realiza el seguimiento de las programaciones didácticas?",
@@ -469,7 +469,7 @@
     "respuesta_b": "Las familias en exclusiva",
     "respuesta_c": "El alumnado sin apoyo docente",
     "respuesta_d": "La biblioteca escolar",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿En qué ambiente debe desarrollarse la práctica educativa?",
@@ -477,7 +477,7 @@
     "respuesta_b": "En un ambiente de competencia constante",
     "respuesta_c": "En un ambiente sin interacción",
     "respuesta_d": "En un entorno centrado en sanciones",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿En qué se basa la práctica educativa según el artículo 15?",
@@ -485,7 +485,7 @@
     "respuesta_b": "En repetición mecánica exclusivamente",
     "respuesta_c": "En exámenes diarios",
     "respuesta_d": "En fichas como método único",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Cómo deben entenderse las áreas entre sí?",
@@ -493,7 +493,7 @@
     "respuesta_b": "Como ámbitos de experiencia intrínsecamente relacionados",
     "respuesta_c": "Como materias sin conexión",
     "respuesta_d": "Como áreas optativas",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué transición debe garantizarse desde el primer contacto?",
@@ -501,7 +501,7 @@
     "respuesta_b": "Una transición positiva del entorno familiar al escolar",
     "respuesta_c": "La transición a educación secundaria",
     "respuesta_d": "Ninguna transición planificada",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Es exigible dominar la lectura y escritura antes de afrontar primaria?",
@@ -509,7 +509,7 @@
     "respuesta_b": "No, puede favorecerse una primera aproximación sin que sea exigible para acceder a primaria",
     "respuesta_c": "Solo la escritura",
     "respuesta_d": "Solo en el primer ciclo",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué aproximación debe fomentar la consellería en el segundo ciclo?",
@@ -517,7 +517,7 @@
     "respuesta_b": "A una tercera lengua obligatoria avanzada",
     "respuesta_c": "A contenidos universitarios",
     "respuesta_d": "A la formación profesional",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué deben eliminar los materiales educativos con especial atención?",
@@ -525,7 +525,7 @@
     "respuesta_b": "Los contenidos sexistas y estereotipos discriminatorios",
     "respuesta_c": "Los juegos cooperativos",
     "respuesta_d": "Las referencias a la diversidad",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué hábitos y ámbitos deben atenderse progresivamente en ambos ciclos?",
@@ -533,7 +533,7 @@
     "respuesta_b": "Solo cálculo y escritura",
     "respuesta_c": "Únicamente la disciplina",
     "respuesta_d": "Solo conocimiento digital",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué educación se incluirá respecto al consumo?",
@@ -541,7 +541,7 @@
     "respuesta_b": "Educación para el consumo ilimitado",
     "respuesta_c": "Solo educación financiera avanzada",
     "respuesta_d": "Ninguna educación relacionada con el consumo",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué diversidad debe incluirse en el conocimiento del alumnado?",
@@ -549,7 +549,7 @@
     "respuesta_b": "La diversidad familiar existente",
     "respuesta_c": "Solo diversidad de edades",
     "respuesta_d": "Únicamente diversidad lingüística",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué artículos del decreto identifican los contenidos transversales mínimos?",
@@ -557,7 +557,7 @@
     "respuesta_b": "Los números 7, 8 y 9 del artículo 15",
     "respuesta_c": "Los artículos 22 a 24",
     "respuesta_d": "Los artículos 29 a 31",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué coordinación se requiere en el desarrollo curricular?",
@@ -565,7 +565,7 @@
     "respuesta_b": "Solo entre docentes de la misma aula",
     "respuesta_c": "Solo con las universidades",
     "respuesta_d": "No se establece coordinación",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué informe emite la tutora o el tutor al finalizar infantil?",
@@ -573,7 +573,7 @@
     "respuesta_b": "Una certificación de notas numéricas",
     "respuesta_c": "Un informe médico obligatorio",
     "respuesta_d": "Un informe disciplinario",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Cuántas personas tutoras se asignan a cada grupo?",
@@ -581,7 +581,7 @@
     "respuesta_b": "Dos tutores obligatoriamente",
     "respuesta_c": "Un tutor por cada área",
     "respuesta_d": "Ninguna persona tutora",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué coordina la tutoría?",
@@ -589,7 +589,7 @@
     "respuesta_b": "Solo las actividades de la biblioteca",
     "respuesta_c": "La admisión en primaria",
     "respuesta_d": "Únicamente la evaluación final",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Con qué periodicidad mínima se informa a las familias sobre el proceso educativo?",
@@ -597,7 +597,7 @@
     "respuesta_b": "Trimestral",
     "respuesta_c": "Semestral",
     "respuesta_d": "Anual",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué debe incluir la información periódica a las familias?",
@@ -605,7 +605,7 @@
     "respuesta_b": "Solo faltas de asistencia",
     "respuesta_c": "Solo calificaciones numéricas",
     "respuesta_d": "Únicamente información de actividades extraescolares",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué constituye la pauta común de la acción educativa?",
@@ -613,7 +613,7 @@
     "respuesta_b": "La enseñanza uniforme sin adaptación",
     "respuesta_c": "La selección por rendimiento",
     "respuesta_d": "La separación sistemática por capacidades",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué aspectos del alumnado debe tener en cuenta la intervención educativa?",
@@ -621,7 +621,7 @@
     "respuesta_b": "Solo edad y calificaciones",
     "respuesta_c": "Únicamente el entorno familiar",
     "respuesta_d": "Solo nivel lingüístico",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Quién establecerá procedimientos para la detección temprana de dificultades?",
@@ -629,7 +629,7 @@
     "respuesta_b": "Cada familia de manera aislada",
     "respuesta_c": "La biblioteca escolar",
     "respuesta_d": "El consejo escolar estatal en exclusiva",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿En qué deben basarse los profesionales al adaptar su práctica educativa?",
@@ -637,7 +637,7 @@
     "respuesta_b": "En una programación invariable",
     "respuesta_c": "En criterios ajenos al currículo",
     "respuesta_d": "En la evaluación final exclusivamente",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué referentes se utilizan para valorar competencias y objetivos de las áreas?",
@@ -645,7 +645,7 @@
     "respuesta_b": "La asistencia únicamente",
     "respuesta_c": "Las calificaciones de primaria",
     "respuesta_d": "La opinión exclusiva de las familias",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Cómo será la evaluación en educación infantil?",
@@ -653,7 +653,7 @@
     "respuesta_b": "Solo final y numérica",
     "respuesta_c": "Exclusivamente diagnóstica",
     "respuesta_d": "Discontinua y selectiva",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Cómo se valorará el proceso de aprendizaje?",
@@ -661,7 +661,7 @@
     "respuesta_b": "Solo con puntuaciones numéricas",
     "respuesta_c": "Mediante una prueba escrita común",
     "respuesta_d": "Solo según la edad",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Cuál es la principal técnica de evaluación?",
@@ -669,7 +669,7 @@
     "respuesta_b": "El examen escrito",
     "respuesta_c": "La entrevista familiar exclusivamente",
     "respuesta_d": "La autoevaluación numérica",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué técnicas accesorias pueden acompañar a la observación?",
@@ -677,7 +677,7 @@
     "respuesta_b": "Solo pruebas estandarizadas",
     "respuesta_c": "Únicamente dictados",
     "respuesta_d": "Solo asistencia y puntualidad",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Quién debe evaluar su propia práctica educativa para mejorar la enseñanza?",
@@ -685,7 +685,7 @@
     "respuesta_b": "Solo la dirección",
     "respuesta_c": "Solo las familias",
     "respuesta_d": "Únicamente la inspección",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Cómo se lleva a cabo la evaluación final del alumnado?",
@@ -693,7 +693,7 @@
     "respuesta_b": "Individualmente por cada familia",
     "respuesta_c": "En cada trimestre mediante una sesión final única",
     "respuesta_d": "Solo por la dirección",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Cómo deben cooperar los centros con las familias?",
@@ -701,7 +701,7 @@
     "respuesta_b": "Solo cuando exista una incidencia",
     "respuesta_c": "Únicamente por escrito al final de etapa",
     "respuesta_d": "No se prevé cooperación",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué deben hacer las familias respecto al proceso educativo?",
@@ -709,7 +709,7 @@
     "respuesta_b": "Delegar toda responsabilidad en el centro",
     "respuesta_c": "Decidir los criterios oficiales de evaluación",
     "respuesta_d": "Firmar todas las programaciones didácticas",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Cuáles son los documentos oficiales de evaluación?",
@@ -717,7 +717,7 @@
     "respuesta_b": "Solo boletines trimestrales",
     "respuesta_c": "Libro de biblioteca y plan digital",
     "respuesta_d": "Programación didáctica y proyecto educativo",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué documentos son básicos para garantizar la movilidad del alumnado?",
@@ -725,7 +725,7 @@
     "respuesta_b": "Solo las actas de evaluación",
     "respuesta_c": "Solo el expediente académico",
     "respuesta_d": "El plan de lectura y el plan digital",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Quién custodia y archiva los documentos oficiales de evaluación del segundo ciclo?",
@@ -733,7 +733,7 @@
     "respuesta_b": "Las familias",
     "respuesta_c": "La biblioteca escolar",
     "respuesta_d": "El centro de primaria receptor siempre",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Para cada qué se extienden las actas de evaluación?",
@@ -741,7 +741,7 @@
     "respuesta_b": "Para cada día lectivo",
     "respuesta_c": "Para cada unidad didáctica",
     "respuesta_d": "Solo al finalizar la etapa",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué información mínima incluyen las actas de evaluación?",
@@ -749,7 +749,7 @@
     "respuesta_b": "Solo la identidad de la persona tutora",
     "respuesta_c": "Únicamente las faltas",
     "respuesta_d": "La programación de actividades del curso siguiente",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Quién firma las actas de evaluación?",
@@ -757,7 +757,7 @@
     "respuesta_b": "La secretaría sin visto bueno",
     "respuesta_c": "Cada familia",
     "respuesta_d": "La inspección exclusivamente",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Cuándo se abre el expediente académico?",
@@ -765,7 +765,7 @@
     "respuesta_b": "Al finalizar la etapa",
     "respuesta_c": "Solo al cambiar de centro",
     "respuesta_d": "Al comenzar primaria",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué recoge como mínimo el expediente académico?",
@@ -773,7 +773,7 @@
     "respuesta_b": "Solo datos de contacto",
     "respuesta_c": "Únicamente cambios de centro",
     "respuesta_d": "Solo el informe final de etapa",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Quién firma el expediente académico?",
@@ -781,7 +781,7 @@
     "respuesta_b": "La persona tutora sin visto bueno",
     "respuesta_c": "La familia y el alumno",
     "respuesta_d": "La inspección educativa",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué valor tiene el historial académico?",
@@ -789,7 +789,7 @@
     "respuesta_b": "Meramente informativo y sin valor acreditativo",
     "respuesta_c": "Equivalente a un informe médico",
     "respuesta_d": "Es un documento de admisión exclusivamente",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué debe recoger el historial académico?",
@@ -797,7 +797,7 @@
     "respuesta_b": "Solo los resultados del último trimestre",
     "respuesta_c": "Solo la identidad del centro",
     "respuesta_d": "Únicamente las medidas disciplinarias",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿A qué centro se remite copia del historial al finalizar infantil?",
@@ -805,7 +805,7 @@
     "respuesta_b": "A cualquier centro sin petición",
     "respuesta_c": "A la consellería exclusivamente",
     "respuesta_d": "A la biblioteca municipal",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué recoge el informe final de etapa?",
@@ -813,7 +813,7 @@
     "respuesta_b": "Solo los datos de matrícula",
     "respuesta_c": "Únicamente las faltas de asistencia",
     "respuesta_d": "Solo la lista de áreas cursadas",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Quién firma el informe final de etapa?",
@@ -821,7 +821,7 @@
     "respuesta_b": "La secretaría sin visto bueno",
     "respuesta_c": "El equipo de familias",
     "respuesta_d": "La inspección exclusivamente",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué ocurre cuando un alumno cambia de centro antes de finalizar la etapa?",
@@ -829,7 +829,7 @@
     "respuesta_b": "La matrícula es definitiva antes de recibir documentos",
     "respuesta_c": "No se transmite documentación",
     "respuesta_d": "El centro receptor no abre expediente",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Cuándo adquiere carácter definitivo la matrícula tras un traslado?",
@@ -837,7 +837,7 @@
     "respuesta_b": "En el momento de solicitar plaza",
     "respuesta_c": "Tras la primera evaluación trimestral",
     "respuesta_d": "Cuando lo autorice la familia por escrito, sin más requisitos",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué contiene el informe personal por traslado?",
@@ -845,7 +845,7 @@
     "respuesta_b": "Solo datos identificativos",
     "respuesta_c": "Únicamente las calificaciones del último curso",
     "respuesta_d": "Solo el calendario escolar",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Pueden sustituirse documentos oficiales por equivalentes electrónicos?",
@@ -853,7 +853,7 @@
     "respuesta_b": "No, nunca",
     "respuesta_c": "Sí, sin ninguna garantía",
     "respuesta_d": "Solo si lo pide la familia, sin condiciones",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué debe incluir el plan de lectura del centro?",
@@ -861,7 +861,7 @@
     "respuesta_b": "Solo préstamos de libros",
     "respuesta_c": "Solo actividades digitales",
     "respuesta_d": "Únicamente lecturas obligatorias en casa",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué finalidad tiene la biblioteca escolar según el decreto?",
@@ -869,7 +869,7 @@
     "respuesta_b": "Servir solo para guardar libros",
     "respuesta_c": "Sustituir el aula ordinaria",
     "respuesta_d": "Gestionar la evaluación académica",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué plan debe incluir el centro para la educación digital?",
@@ -877,7 +877,7 @@
     "respuesta_b": "Un plan de exámenes digitales exclusivamente",
     "respuesta_c": "Un plan de admisión telemática",
     "respuesta_d": "Un plan de mantenimiento informático sin dimensión educativa",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué pretende mejorar el plan digital de centro?",
@@ -885,7 +885,7 @@
     "respuesta_b": "Solo la velocidad de conexión",
     "respuesta_c": "Únicamente la gestión administrativa",
     "respuesta_d": "Solo las competencias de la dirección",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué plan contempla el artículo 31?",
@@ -893,7 +893,7 @@
     "respuesta_b": "Un plan de rendimiento académico competitivo",
     "respuesta_c": "Un plan de excursiones anuales",
     "respuesta_d": "Un plan de alimentación exclusivamente",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Cuál es la finalidad del plan de actividades físicas y hábitos saludables?",
@@ -901,7 +901,7 @@
     "respuesta_b": "Sustituir todas las actividades de aula",
     "respuesta_c": "Organizar competiciones obligatorias",
     "respuesta_d": "Reducir los tiempos de recreo",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿En qué ciclo se incluyen las enseñanzas de religión según la disposición adicional primera?",
@@ -909,7 +909,7 @@
     "respuesta_b": "Solo en el primer ciclo",
     "respuesta_c": "En ambos ciclos obligatoriamente",
     "respuesta_d": "En ninguno",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Cuándo pueden las familias manifestar si desean enseñanza de religión?",
@@ -917,7 +917,7 @@
     "respuesta_b": "Al finalizar la etapa",
     "respuesta_c": "Solo al cambiar de centro",
     "respuesta_d": "Únicamente en el último trimestre",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué debe garantizarse respecto a recibir o no religión?",
@@ -925,7 +925,7 @@
     "respuesta_b": "Que todo el alumnado la curse obligatoriamente",
     "respuesta_c": "Que solo pueda elegirse una vez en la vida",
     "respuesta_d": "Que determine la admisión al centro",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Quién determina el currículo de religión católica?",
@@ -933,7 +933,7 @@
     "respuesta_b": "El claustro de cada centro sin marco alguno",
     "respuesta_c": "Las familias por votación",
     "respuesta_d": "La biblioteca escolar",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué puede establecer la consellería sobre lenguas extranjeras?",
@@ -941,7 +941,7 @@
     "respuesta_b": "La eliminación de las lenguas cooficiales",
     "respuesta_c": "La obligación de alcanzar nivel avanzado",
     "respuesta_d": "La modificación de los criterios de admisión",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué debe procurarse con el aprendizaje integrado de contenidos y lengua extranjera?",
@@ -949,7 +949,7 @@
     "respuesta_b": "Que una lengua desplace a todas las demás",
     "respuesta_c": "Que se alteren los criterios de admisión",
     "respuesta_d": "Que se eliminen los contenidos de las áreas",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Cuántos días lectivos mínimos comprende el calendario del segundo ciclo?",
@@ -957,7 +957,7 @@
     "respuesta_b": "170",
     "respuesta_c": "175",
     "respuesta_d": "180",
-    "Opcion correcta": "C"
+    "opcion_correcta": "C"
   },
   {
     "Pregunta": "¿Qué decreto deroga expresamente el Decreto 150/2022?",
@@ -965,7 +965,7 @@
     "respuesta_b": "Decreto 330/2009, de 4 de junio",
     "respuesta_c": "Decreto 150/2009",
     "respuesta_d": "Ley orgánica 2/2006",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿En qué curso escolar se implantó el contenido del decreto?",
@@ -973,7 +973,7 @@
     "respuesta_b": "2021-2022",
     "respuesta_c": "2022-2023",
     "respuesta_d": "2023-2024",
-    "Opcion correcta": "C"
+    "opcion_correcta": "C"
   },
   {
     "Pregunta": "¿Cuándo entra en vigor el decreto?",
@@ -981,7 +981,7 @@
     "respuesta_b": "El día siguiente al de su publicación en el Diario Oficial de Galicia",
     "respuesta_c": "Un mes después de publicarse",
     "respuesta_d": "Al comenzar el curso 2023-2024",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿En qué fecha se publicó el decreto en el DOG?",
@@ -989,7 +989,7 @@
     "respuesta_b": "8 de septiembre de 2022",
     "respuesta_c": "1 de febrero de 2022",
     "respuesta_d": "4 de junio de 2009",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Cuántos artículos tiene el decreto?",
@@ -997,7 +997,7 @@
     "respuesta_b": "30",
     "respuesta_c": "31",
     "respuesta_d": "33",
-    "Opcion correcta": "C"
+    "opcion_correcta": "C"
   },
   {
     "Pregunta": "¿Cuántos anexos incluye el decreto?",
@@ -1005,7 +1005,7 @@
     "respuesta_b": "Dos",
     "respuesta_c": "Tres",
     "respuesta_d": "Cuatro",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿A qué se dedica el anexo I?",
@@ -1013,7 +1013,7 @@
     "respuesta_b": "A los documentos de evaluación",
     "respuesta_c": "Al calendario escolar",
     "respuesta_d": "A las normas de admisión",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿A qué se dedica el anexo II?",
@@ -1021,7 +1021,7 @@
     "respuesta_b": "A las competencias clave únicamente",
     "respuesta_c": "A la enseñanza de religión",
     "respuesta_d": "A los documentos de traslado",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué porcentaje del horario escolar corresponde a enseñanzas mínimas en comunidades con lengua cooficial según la parte expositiva?",
@@ -1029,7 +1029,7 @@
     "respuesta_b": "50 %",
     "respuesta_c": "60 %",
     "respuesta_d": "75 %",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué norma estatal establece la ordenación y las enseñanzas mínimas de educación infantil citada en el decreto?",
@@ -1037,7 +1037,7 @@
     "respuesta_b": "Real decreto 330/2009",
     "respuesta_c": "Ley 39/2015",
     "respuesta_d": "Real decreto 4/2010",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué norma orgánica modificó la Ley orgánica 2/2006 en diciembre de 2020?",
@@ -1045,7 +1045,7 @@
     "respuesta_b": "Ley orgánica 8/1985",
     "respuesta_c": "Ley orgánica 1/1981",
     "respuesta_d": "Ley orgánica 3/2018",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué principio rector se destaca en la parte expositiva para el sistema educativo?",
@@ -1053,7 +1053,7 @@
     "respuesta_b": "La selección por rendimiento",
     "respuesta_c": "La uniformidad metodológica",
     "respuesta_d": "La competitividad económica",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué función cumple el currículo para el profesorado?",
@@ -1061,7 +1061,7 @@
     "respuesta_b": "Sustituir la planificación docente",
     "respuesta_c": "Establecer las calificaciones de primaria",
     "respuesta_d": "Regular solo el calendario",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué caracteriza el enfoque curricular del decreto?",
@@ -1069,7 +1069,7 @@
     "respuesta_b": "Enseñanza centrada exclusivamente en memorización",
     "respuesta_c": "Separación rígida de áreas",
     "respuesta_d": "Evaluación solo mediante exámenes",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué deben promover los centros respecto al trabajo docente?",
@@ -1077,7 +1077,7 @@
     "respuesta_b": "Competencia individual sin coordinación",
     "respuesta_c": "Supresión de la reflexión docente",
     "respuesta_d": "Un método único para todos los centros",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué puede hacer el centro dentro de su autonomía, conforme a la normativa?",
@@ -1085,7 +1085,7 @@
     "respuesta_b": "Imponer aportaciones económicas a las familias",
     "respuesta_c": "Discriminar a parte del alumnado",
     "respuesta_d": "Modificar libremente las normas estatales de admisión",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué límite se establece a las iniciativas de autonomía de los centros?",
@@ -1093,7 +1093,7 @@
     "respuesta_b": "Deben aplicarse solo a centros privados",
     "respuesta_c": "Deben eliminar el juego",
     "respuesta_d": "No pueden incluir innovación metodológica",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué aspecto debe valorarse para mejorar el proceso de enseñanza-aprendizaje?",
@@ -1101,7 +1101,7 @@
     "respuesta_b": "Solo el número de tareas enviadas a casa",
     "respuesta_c": "Únicamente el tiempo de recreo",
     "respuesta_d": "Solo la asistencia del profesorado",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué tipo de instrumentos de evaluación se promueve?",
@@ -1109,7 +1109,7 @@
     "respuesta_b": "Uno único para todo el alumnado",
     "respuesta_c": "Solo pruebas escritas",
     "respuesta_d": "Solo entrevistas",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué se busca identificar mediante la evaluación?",
@@ -1117,7 +1117,7 @@
     "respuesta_b": "Solo la posición del alumnado en una clasificación",
     "respuesta_c": "Únicamente el dominio de lectura",
     "respuesta_d": "La capacidad de memorizar normas",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué finalidad tiene la coordinación entre ciclos y etapas?",
@@ -1125,7 +1125,7 @@
     "respuesta_b": "Uniformar todas las actividades sin adaptación",
     "respuesta_c": "Eliminar la tutoría",
     "respuesta_d": "Reducir la participación familiar",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué debe facilitar la biblioteca escolar además de los recursos de lectura?",
@@ -1133,7 +1133,7 @@
     "respuesta_b": "Solo el silencio y el préstamo",
     "respuesta_c": "La custodia de expedientes académicos",
     "respuesta_d": "La gestión del calendario escolar",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Cómo se concretan anualmente los planes de lectura y biblioteca?",
@@ -1141,7 +1141,7 @@
     "respuesta_b": "En el historial académico de cada alumno",
     "respuesta_c": "En las actas de evaluación",
     "respuesta_d": "En el informe por traslado",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Cómo se concreta anualmente el plan digital de centro?",
@@ -1149,7 +1149,7 @@
     "respuesta_b": "En el expediente académico",
     "respuesta_c": "En el calendario escolar estatal",
     "respuesta_d": "En las actas de evaluación final",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué competencia transversal se fomenta mediante el plan digital?",
@@ -1157,7 +1157,7 @@
     "respuesta_b": "Solo la competencia matemática",
     "respuesta_c": "Únicamente la competencia emprendedora",
     "respuesta_d": "Ninguna competencia clave",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué debe promover la consellería respecto a las TIC en el aula?",
@@ -1165,7 +1165,7 @@
     "respuesta_b": "Su prohibición total",
     "respuesta_c": "Su uso exclusivo para evaluar",
     "respuesta_d": "Su empleo solo en el primer ciclo",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué tipo de plataformas podrá ofrecer la consellería?",
@@ -1173,7 +1173,7 @@
     "respuesta_b": "Solo plataformas de pago para familias",
     "respuesta_c": "Únicamente redes sociales",
     "respuesta_d": "Plataformas reservadas al equipo directivo",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué derecho tienen las familias al inicio del curso respecto a la religión?",
@@ -1181,7 +1181,7 @@
     "respuesta_b": "Elegir el currículo oficial de todas las áreas",
     "respuesta_c": "Modificar los criterios de evaluación",
     "respuesta_d": "Determinar el horario mínimo legal",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué órgano o autoridad consultiva se menciona en la aprobación del decreto?",
@@ -1189,7 +1189,7 @@
     "respuesta_b": "Consejo de Universidades exclusivamente",
     "respuesta_c": "Consejo General del Poder Judicial",
     "respuesta_d": "Consejo Escolar Estatal únicamente",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Quién firmó el decreto como presidente de la Xunta?",
@@ -1197,7 +1197,7 @@
     "respuesta_b": "Román Rodríguez González",
     "respuesta_c": "Alberto Núñez Feijóo",
     "respuesta_d": "Manuel Fraga Iribarne",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Quién figura como conselleiro de Cultura, Educación, Formación Profesional y Universidades?",
@@ -1205,7 +1205,7 @@
     "respuesta_b": "Román Rodríguez González",
     "respuesta_c": "José Ramón Gómez Besteiro",
     "respuesta_d": "Ninguna persona",
-    "Opcion correcta": "B"
+    "opcion_correcta": "B"
   },
   {
     "Pregunta": "¿Qué deben garantizar los documentos oficiales de evaluación cuando se emiten?",
@@ -1213,7 +1213,7 @@
     "respuesta_b": "Publicación abierta de todos los datos",
     "respuesta_c": "El acceso universal sin restricciones",
     "respuesta_d": "La eliminación de datos personales",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué información se incluye en el informe personal por traslado además de los resultados de evaluación?",
@@ -1221,7 +1221,7 @@
     "respuesta_b": "Solo datos de contacto",
     "respuesta_c": "Únicamente la fecha de nacimiento",
     "respuesta_d": "Solo el nombre del centro receptor",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué representa la evaluación cualitativa en las actas?",
@@ -1229,7 +1229,7 @@
     "respuesta_b": "Obliga a usar porcentajes numéricos",
     "respuesta_c": "Clasifica al alumnado por orden",
     "respuesta_d": "Sustituye los criterios de evaluación",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Cuál de las siguientes NO es un área de educación infantil del decreto?",
@@ -1237,7 +1237,7 @@
     "respuesta_b": "Descubrimiento y Exploración del Entorno",
     "respuesta_c": "Comunicación y Representación de la Realidad",
     "respuesta_d": "Educación Física y Deportes como área independiente",
-    "Opcion correcta": "D"
+    "opcion_correcta": "D"
   },
   {
     "Pregunta": "¿Cuál de las siguientes NO es una competencia clave enumerada?",
@@ -1245,7 +1245,7 @@
     "respuesta_b": "Competencia emprendedora",
     "respuesta_c": "Competencia emocional como competencia clave independiente",
     "respuesta_d": "Competencia plurilingüe",
-    "Opcion correcta": "C"
+    "opcion_correcta": "C"
   },
   {
     "Pregunta": "¿Qué relación existe entre competencias clave y áreas?",
@@ -1253,7 +1253,7 @@
     "respuesta_b": "Cada competencia se desarrolla en una sola área",
     "respuesta_c": "Las áreas no contribuyen a las competencias",
     "respuesta_d": "Solo el área digital desarrolla competencias clave",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué debe favorecerse en la imagen que los niños y niñas construyan de sí mismos?",
@@ -1261,7 +1261,7 @@
     "respuesta_b": "Que dependa de comparaciones constantes",
     "respuesta_c": "Que sea idéntica para todo el alumnado",
     "respuesta_d": "Que se base en roles sexistas",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué debe incluir el lenguaje empleado en la etapa?",
@@ -1269,7 +1269,7 @@
     "respuesta_b": "Expresiones que refuercen roles de género",
     "respuesta_c": "Solo lenguaje escrito formal",
     "respuesta_d": "Únicamente vocabulario técnico",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué deben hacer los centros para atender las necesidades específicas de apoyo educativo?",
@@ -1277,7 +1277,7 @@
     "respuesta_b": "Esperar a la educación primaria",
     "respuesta_c": "Aplicar idéntica respuesta en todos los casos",
     "respuesta_d": "Derivar automáticamente al alumnado fuera del aula",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué papel tienen las entrevistas con las familias en la evaluación?",
@@ -1285,7 +1285,7 @@
     "respuesta_b": "Son la técnica principal y exclusiva",
     "respuesta_c": "Están prohibidas",
     "respuesta_d": "Sustituyen todos los criterios de evaluación",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué debe incluir la programación didáctica sobre la práctica docente?",
@@ -1293,7 +1293,7 @@
     "respuesta_b": "Solo el horario del alumnado",
     "respuesta_c": "Únicamente la lista de materiales",
     "respuesta_d": "Solo la relación de alumnado",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué debe hacerse si hay desviaciones en el cumplimiento de una programación didáctica?",
@@ -1301,7 +1301,7 @@
     "respuesta_b": "Ignorarlas siempre",
     "respuesta_c": "Cambiar automáticamente el currículo oficial",
     "respuesta_d": "Informar solo a las familias",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué tipo de experiencias deben promover las propuestas globalizadas de aprendizaje?",
@@ -1309,7 +1309,7 @@
     "respuesta_b": "Actividades sin relación entre sí",
     "respuesta_c": "Tareas exclusivamente repetitivas",
     "respuesta_d": "Actividades ajenas a las edades del alumnado",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué se pretende asegurar con la atención temprana de necesidades específicas?",
@@ -1317,7 +1317,7 @@
     "respuesta_b": "La clasificación definitiva del alumnado",
     "respuesta_c": "La reducción de apoyos",
     "respuesta_d": "La evaluación exclusivamente final",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué se entiende por horario al servicio de la metodología?",
@@ -1325,7 +1325,7 @@
     "respuesta_b": "Que las tareas deban adaptarse siempre a sesiones rígidas",
     "respuesta_c": "Que el horario sea idéntico todos los días",
     "respuesta_d": "Que no existan rutinas",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué tipo de actividades deben alternarse en la jornada?",
@@ -1333,7 +1333,7 @@
     "respuesta_b": "Solo actividades dirigidas por el adulto",
     "respuesta_c": "Solo juego libre",
     "respuesta_d": "Solo actividades de mesa",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué debe tener en cuenta la intervención educativa para favorecer la inclusión plena?",
@@ -1341,7 +1341,7 @@
     "respuesta_b": "Únicamente los resultados finales",
     "respuesta_c": "Solo la edad cronológica",
     "respuesta_d": "La misma metodología sin ajustes",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué debe respetarse en la enseñanza de religión?",
@@ -1349,7 +1349,7 @@
     "respuesta_b": "La obligatoriedad para todo el alumnado",
     "respuesta_c": "La exclusión de quienes no la cursen",
     "respuesta_d": "La modificación de los criterios de admisión",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué norma se deroga además de las disposiciones de igual o inferior rango que se opongan al decreto?",
@@ -1357,7 +1357,7 @@
     "respuesta_b": "Real decreto 95/2022",
     "respuesta_c": "Ley orgánica 2/2006",
     "respuesta_d": "Ley orgánica 3/2020",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué contenido mínimo debe aparecer en el proyecto educativo y funcional sobre actividad física?",
@@ -1365,7 +1365,7 @@
     "respuesta_b": "Un plan de exámenes semanales",
     "respuesta_c": "Un plan de selección deportiva",
     "respuesta_d": "Un plan de actividades exclusivamente extraescolares",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué objetivo de convivencia aparece expresamente en la etapa?",
@@ -1373,7 +1373,7 @@
     "respuesta_b": "Evitar el contacto entre iguales",
     "respuesta_c": "Priorizar el castigo como método educativo",
     "respuesta_d": "Promover la competitividad por encima de la cooperación",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué debe hacer la administración educativa para apoyar la coordinación de etapas?",
@@ -1381,7 +1381,7 @@
     "respuesta_b": "Eliminar los informes finales",
     "respuesta_c": "Sustituir las tutorías por exámenes",
     "respuesta_d": "Delegar toda coordinación en las familias",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué órgano coordina la evaluación final del alumnado?",
@@ -1389,7 +1389,7 @@
     "respuesta_b": "La secretaría del centro",
     "respuesta_c": "La biblioteca escolar",
     "respuesta_d": "La asociación de familias",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué criterio general se aplica a la evaluación de los dos ciclos?",
@@ -1397,7 +1397,7 @@
     "respuesta_b": "Utilizar los mismos exámenes en todas las edades",
     "respuesta_c": "Evaluar solo al finalizar el segundo ciclo",
     "respuesta_d": "No evaluar los progresos individuales",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué documentos deben mencionar la norma que establece el currículo correspondiente?",
@@ -1405,7 +1405,7 @@
     "respuesta_b": "Solo las programaciones didácticas",
     "respuesta_c": "Solo el plan digital",
     "respuesta_d": "Únicamente los informes familiares",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué sucede con los documentos oficiales si el centro desaparece o se extingue?",
@@ -1413,7 +1413,7 @@
     "respuesta_b": "Se destruyen automáticamente",
     "respuesta_c": "Se entregan siempre a las familias sin registro",
     "respuesta_d": "Se publican en la web del centro",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué debe garantizarse si los documentos de evaluación se sustituyen por medios electrónicos?",
@@ -1421,7 +1421,7 @@
     "respuesta_b": "Acceso público sin contraseña",
     "respuesta_c": "Que no puedan imprimirse",
     "respuesta_d": "Que solo la dirección pueda consultarlos, incluso cuando la ley autorice otros accesos",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué objetivo del decreto está relacionado con la cultura gallega?",
@@ -1429,7 +1429,7 @@
     "respuesta_b": "Limitar el conocimiento cultural al ámbito internacional",
     "respuesta_c": "Sustituir la cultura gallega por contenidos exclusivamente digitales",
     "respuesta_d": "Evitar referencias a personas relevantes de Galicia",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué contenidos organizados en bloques aparecen en el anexo II?",
@@ -1437,7 +1437,7 @@
     "respuesta_b": "Solo contenidos del segundo ciclo",
     "respuesta_c": "Únicamente contenidos transversales",
     "respuesta_d": "Solo objetivos generales",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué debe ocurrir con la metodología cuando se organizan los bloques curriculares?",
@@ -1445,7 +1445,7 @@
     "respuesta_b": "Debe seguir una secuencia inalterable",
     "respuesta_c": "Solo puede decidirla la administración estatal",
     "respuesta_d": "No puede tener en cuenta al grupo",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Cuál es la orientación del decreto sobre los retos del siglo XXI?",
@@ -1453,7 +1453,7 @@
     "respuesta_b": "Centrarse solo en resultados académicos",
     "respuesta_c": "Evitar el uso responsable de tecnología",
     "respuesta_d": "Priorizar la competencia individual",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué tipo de ciudadanía pretende contribuir a formar el currículo según la parte expositiva?",
@@ -1461,7 +1461,7 @@
     "respuesta_b": "Pasiva y dependiente",
     "respuesta_c": "Exclusivamente digital",
     "respuesta_d": "Centrada en la competición",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué debe evitar el currículo en relación con el derecho a la educación?",
@@ -1469,7 +1469,7 @@
     "respuesta_b": "La adaptación al contexto gallego",
     "respuesta_c": "La atención a la diversidad",
     "respuesta_d": "El aprendizaje por competencias",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué finalidad tienen las medidas de flexibilización que pueden adoptar los centros?",
@@ -1477,7 +1477,7 @@
     "respuesta_b": "Reducir la inclusión",
     "respuesta_c": "Eliminar las áreas curriculares",
     "respuesta_d": "Sustituir la evaluación continua",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué se busca con la evaluación de la propia práctica docente?",
@@ -1485,7 +1485,7 @@
     "respuesta_b": "Establecer una clasificación fija del profesorado",
     "respuesta_c": "Sustituir la evaluación del alumnado",
     "respuesta_d": "Eliminar las programaciones",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   },
   {
     "Pregunta": "¿Qué función tienen los planes educativos del título III?",
@@ -1493,6 +1493,6 @@
     "respuesta_b": "Regular exclusivamente la admisión",
     "respuesta_c": "Sustituir el currículo de las áreas",
     "respuesta_d": "Organizar solo el transporte escolar",
-    "Opcion correcta": "A"
+    "opcion_correcta": "A"
   }
 ]
