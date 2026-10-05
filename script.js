@@ -17,6 +17,10 @@ try {
 
 updateQuestions();
 
+document.getElementById('btn-next').addEventListener('click', () => {  
+  updateQuestions();
+});
+
 function updateQuestions()
 {
   let index = Math.floor(Math.random() * questions.length);
