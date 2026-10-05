@@ -25,8 +25,10 @@ document.getElementById('btn-next').addEventListener('click', () => {
 // Seleccionamos todas las opciones y les añadimos el evento de clic
 document.querySelectorAll('.option').forEach(option => {
   option.addEventListener('click', (event) => {        
-    document.querySelectorAll('.option').forEach(opt => opt.classList.remove('incorrect'));    
-    event.currentTarget.classList.add('incorrect');        
+    if(questions[index].opcion_correcta == event.currentTarget.getAttribute('data-option-value'))
+      event.currentTarget.classList.add('correct');        
+    else
+      event.currentTarget.classList.add('incorrect');        
   });
 });
 
