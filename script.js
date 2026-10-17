@@ -24,7 +24,7 @@ try {
     questions = questions.concat(file_questions);    
     file_index++;
   }
-  
+  questions.sort(() => Math.random() - 0.5);
   
   
 } catch (error) {
@@ -49,8 +49,8 @@ document.querySelectorAll('.option').forEach(option => {
 
 function updateQuestions()
 {
-  index = Math.floor(Math.random() * questions.length);
-  current_file_text.innerText = questions[index].file_index.replaceAll('_', ' ');
+  index+=1;
+  current_file_text.innerText = question_files[questions[index].file_index].replaceAll('_', ' ');
   questionText.innerText = questions[index].Pregunta;
   option_a.innerText= questions[index].respuesta_a;
   option_b.innerText= questions[index].respuesta_b;
