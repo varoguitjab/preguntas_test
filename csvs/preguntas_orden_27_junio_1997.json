@@ -1,0 +1,242 @@
+[
+  {
+    "Pregunta": "¿Cuál es la norma principal que desarrolla la Orden de 27 de junio de 1997?",
+    "respuesta_a": "Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención",
+    "respuesta_b": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
+    "respuesta_c": "Real Decreto 486/1997, de 14 de abril",
+    "respuesta_d": "Ley 30/1992, de 26 de noviembre",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "Según el artículo 1 de la Orden, ¿cuáles son los medios humanos mínimos de carácter sanitario que debe disponer una entidad especializada para ser acreditada como servicio de prevención ajeno?",
+    "respuesta_a": "Un Médico especialista en Medicina del Trabajo o diplomado en Medicina de Empresa y un ATS/DUE de empresa",
+    "respuesta_b": "Dos Médicos especialistas en Medicina del Trabajo y dos ATS/DUE",
+    "respuesta_c": "Un Médico general y un enfermero sin especialidad",
+    "respuesta_d": "Exclusivamente un médico especialista en medicina del trabajo",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "Además del personal sanitario, ¿qué expertos en disciplinas preventivas debe disponer como mínimo una entidad especializada en sus medios humanos?",
+    "respuesta_a": "Un experto por cada una de las disciplinas de Seguridad en el Trabajo, Higiene Industrial, y Ergonomía y Psicosociología Aplicada",
+    "respuesta_b": "Dos expertos en Seguridad y uno en Higiene",
+    "respuesta_c": "Un único experto superior multidisciplinar",
+    "respuesta_d": "Expertos únicamente en Seguridad en el Trabajo",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "De acuerdo con el artículo 1.1, ¿cuándo puede la autoridad laboral autorizar la acreditación de una entidad con un mínimo de dos expertos en dos especialidades diferenciadas (uno por cada especialidad)?",
+    "respuesta_a": "Previo informe, en su caso, de la autoridad sanitaria, a solicitud de las entidades peticionarias y siempre que sea posible en función del tipo de empresa y riesgos",
+    "respuesta_b": "En cualquier caso sin necesidad de informe previo",
+    "respuesta_c": "Solo para empresas de menos de 10 trabajadores",
+    "respuesta_d": "Está totalmente prohibido contar con menos de cuatro expertos",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "Según el artículo 1.2, ¿cómo se consideran, entre otras, las actividades de laboratorios como los clínicos, microbiológicos y de higiene industrial a efectos de subcontratación?",
+    "respuesta_a": "Actividades que requieran conocimientos especiales o instalaciones de gran complejidad",
+    "respuesta_b": "Actividades de carácter estrictamente administrativo",
+    "respuesta_c": "Actividades prohibidas de subcontratar bajo ningún concepto",
+    "respuesta_d": "Actividades menores que no requieren ningún requisito",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "¿Dónde deben formular la solicitud de acreditación las entidades especializadas que pretendan ser acreditadas como servicio de prevención?",
+    "respuesta_a": "Ante la autoridad laboral competente del lugar donde radiquen sus instalaciones principales",
+    "respuesta_b": "Ante el Ministerio de Trabajo en Madrid obligatoriamente para todo el Estado",
+    "respuesta_c": "Ante cualquier oficina de empleo municipal",
+    "respuesta_d": "Ante la Inspección de Trabajo exclusivamente por vía telemática nacional",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "En caso de duda sobre cuál es la instalación principal de una entidad para presentar la solicitud, ¿cómo se determina según el artículo 2.1?",
+    "respuesta_a": "Aquella que cuente con mayor número de trabajadores dedicados a actividades preventivas, excluyendo al personal administrativo",
+    "respuesta_b": "La que posea el mayor volumen de facturación anual",
+    "respuesta_c": "La situada en la capital de provincia",
+    "respuesta_d": "La que elija libremente la empresa sin criterios objetivos",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "Según el artículo 2.2.b), ¿qué clasificación de actividad productiva se utiliza para indicar el ámbito territorial y de actividad profesional?",
+    "respuesta_a": "CNAE-93 con dos o tres dígitos respectivamente",
+    "respuesta_b": "CNAE-92 con cuatro dígitos",
+    "respuesta_c": "Clasificación Nacional de Ocupaciones (CNO)",
+    "respuesta_d": "Códigos postales de actividad",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "Entre los compromisos que debe aportar la entidad en su solicitud (art. 2.2.f), se encuentra:",
+    "respuesta_a": "El compromiso de no concertar su actividad con empresas con las que tuvieran vinculaciones comerciales, financieras o de cualquier otro tipo",
+    "respuesta_b": "El compromiso de exclusividad territorial absoluta en toda España",
+    "respuesta_c": "El compromiso de no contratar personal autónomo",
+    "respuesta_d": "El compromiso de gratuidad de los servicios para pymes",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "Según el artículo 3.3, contra la resolución de la autoridad laboral sobre la acreditación de servicios de prevención,",
+    "respuesta_a": "Cabrá la interposición de recurso ordinario en el plazo de un mes ante el órgano superior jerárquico correspondiente",
+    "respuesta_b": "No cabrá ningún tipo de recurso por ser firme",
+    "respuesta_c": "Se interpondrá recurso contencioso-administrativo directo en 10 días",
+    "respuesta_d": "Se elevará recurso extraordinario de revisión ante el Consejo de Ministros",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "¿Cuál es el objetivo principal de la actividad de auditoría del sistema de prevención regulada en el Capítulo II?",
+    "respuesta_a": "Evaluar la idoneidad de las evaluaciones de riesgos, comprobar actividades preventivas y determinar adecuación de procedimientos y medios",
+    "respuesta_b": "Inspeccionar las nóminas y contratos laborales de los trabajadores",
+    "respuesta_c": "Certificar la calidad contable y fiscal de la empresa",
+    "respuesta_d": "Gestionar directamente las mutuas de accidentes de trabajo",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "Según el artículo 4.2, ¿qué perfil se exige a una persona física que pretenda desarrollar la actividad de auditoría?",
+    "respuesta_a": "Ser experto de nivel superior en cualquiera de las cuatro especialidades y disponer de formación o experiencia probada en gestión y realización de auditorías y técnicas auditoras",
+    "respuesta_b": "Bastar con ser técnico de nivel básico con experiencia comercial",
+    "respuesta_c": "Tener titulación universitaria en derecho laboral obligatoriamente",
+    "respuesta_d": "Ser funcionario del cuerpo de inspectores de trabajo en activo",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "De acuerdo con el artículo 4.4, ¿cuándo se considera que las verificaciones de la evaluación de riesgos son complejas para poder ser concertadas con profesionales externos?",
+    "respuesta_a": "Cuando haya que realizar mediciones, análisis, pruebas, ensayos o reconocimientos de la salud con el fin de contrastar los resultados",
+    "respuesta_b": "Siempre que la empresa tenga más de 50 trabajadores",
+    "respuesta_c": "Cuando la auditoría dure más de una semana",
+    "respuesta_d": "Únicamente en obras de construcción de gran envergadura",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "Según el artículo 4.4, la concertación de la verificación de los resultados de la evaluación para la auditoría NO podrá realizarse con profesionales que...",
+    "respuesta_a": "Mantengan vinculaciones comerciales, financieras o de cualquier otro tipo con la empresa objeto de la auditoría",
+    "respuesta_b": "Residan en una provincia distinta a la empresa",
+    "respuesta_c": "No estén colegiados en un colegio profesional de ingenieros",
+    "respuesta_d": "Hayan colaborado previamente con la administración pública",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "Según el artículo 7.1, para que entidades públicas o privadas puedan ser autorizadas para impartir y certificar formación de niveles intermedio y superior, ¿qué experiencia mínima se exige al personal docente experto en cada disciplina?",
+    "respuesta_a": "Una experiencia profesional de tres años en la materia impartida",
+    "respuesta_b": "Un año de experiencia en la docencia general",
+    "respuesta_c": "Diez años de ejercicio profesional exclusivo",
+    "respuesta_d": "No se exige experiencia previa si tienen máster",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "En el caso de la formación para desarrollar funciones de nivel superior en entidades formativas (art. 7.2), ¿qué titulación y experiencia se exige al profesorado?",
+    "respuesta_a": "Titulación universitaria y una experiencia profesional de cinco años en la materia impartida",
+    "respuesta_b": "Formación profesional de grado superior y dos años de experiencia",
+    "respuesta_c": "Titulación de doctorado sin exigencia de experiencia",
+    "respuesta_d": "Bastar con certificado de profesionalidad",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "Según el artículo 8.1, ¿ante qué autoridad debe formular la solicitud una entidad formativa que pretenda desarrollar su actividad?",
+    "respuesta_a": "Ante la autoridad laboral competente del lugar donde pretendan desarrollar su actividad formativa (o instalaciones principales si es a distancia)",
+    "respuesta_b": "Ante el Ministerio de Educación en todo caso",
+    "respuesta_c": "Ante la Tesorería General de la Seguridad Social",
+    "respuesta_d": "Ante el Instituto Nacional de Seguridad e Higiene en el Trabajo",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "Según el artículo 9.1, ¿en qué plazo debe dictar resolución la autoridad laboral sobre la solicitud de autorización formativa, transcurrido el cual sin resolución expresa se puede entender desestimada?",
+    "respuesta_a": "En el plazo de tres meses",
+    "respuesta_b": "En el plazo de un mes",
+    "respuesta_c": "En el plazo de seis meses",
+    "respuesta_d": "En el plazo de quince días",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "Según el artículo 9.2, la eficacia de la autorización provisional dictada por la autoridad laboral formativa queda subordinada a:",
+    "respuesta_a": "La realización efectiva del proyecto por parte de la entidad solicitante y su comunicación en el plazo de tres meses",
+    "respuesta_b": "El pago de una tasa anual obligatoria",
+    "respuesta_c": "La aprobación por el Parlamento autonómico",
+    "respuesta_d": "La homologación internacional de los títulos",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "Según el artículo 9.3, transcurrido el plazo de tres meses sin que la entidad formativa haya comunicado a la autoridad laboral la realización del proyecto,",
+    "respuesta_a": "La autorización provisional se entenderá caducada",
+    "respuesta_b": "Se prorrogará automáticamente por un año",
+    "respuesta_c": "Se considerará concedida con carácter definitivo",
+    "respuesta_d": "Se impondrá una sanción económica del 10%",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "Según el artículo 11.1, ¿qué requisitos debe cumplir el alumno para que la entidad autorizada expida la certificación formativa de niveles intermedio o superior?",
+    "respuesta_a": "Haber cursado el programa con contenido mínimo de los anexos V o VI del RD 39/1997 y haber superado una prueba de evaluación que demuestre suficiencia",
+    "respuesta_b": "Solo haber asistido al 50% de las clases presenciales",
+    "respuesta_c": "Presentar un trabajo de fin de curso evaluado por la patronal",
+    "respuesta_d": "Acreditar dos años de práctica laboral previa sin examen",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "Para impartir formación en la modalidad a distancia (art. 11.4), ¿qué condiciones son indispensables?",
+    "respuesta_a": "La existencia de tutorías, así como la realización de evaluaciones presenciales que demuestren la suficiencia de conocimientos adquiridos",
+    "respuesta_b": "Exclusivamente exámenes online tipo test sin control presencial",
+    "respuesta_c": "Envío de apuntes por correo postal sin interacción",
+    "respuesta_d": "No está permitida bajo ningún concepto la modalidad a distancia",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "Según el artículo 11.5, ¿qué obligación tienen las entidades formativas autorizadas respecto a las certificaciones expedidas para facilitar el control de la autoridad laboral?",
+    "respuesta_a": "Remitirle copia de todas las certificaciones emitidas",
+    "respuesta_b": "Publicarlas anualmente en un diario oficial",
+    "respuesta_c": "Guardarlas en archivo propio durante 5 años sin remitirlas salvo inspección",
+    "respuesta_d": "Entregarlas únicamente a los alumnos interesados",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "Según el artículo 12.2, ¿qué requisito de experiencia se exige a los funcionarios de las Administraciones públicas para considerar que cuentan con formación equivalente a efectos de certificación?",
+    "respuesta_a": "Haber desarrollado su actividad durante al menos cinco años en materia de seguridad y salud en el trabajo",
+    "respuesta_b": "Un año de servicio en la administración",
+    "respuesta_c": "Diez años de antigüedad en el cuerpo general",
+    "respuesta_d": "No se exige experiencia previa si aprobaron oposición",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "Según la Disposición Adicional Quinta, ¿qué habilitación otorga la obtención del certificado de profesionalidad de prevencionista de riesgos laborales del FPO?",
+    "respuesta_a": "Para el desarrollo de las funciones de nivel intermedio previstas en el artículo 36 del Reglamento de los Servicios de Prevención",
+    "respuesta_b": "Para realizar auditorías de nivel superior en grandes empresas",
+    "respuesta_c": "Para ejercer como médico especialista en medicina del trabajo",
+    "respuesta_d": "Para constituir servicios sanitarios propios sin titulación universitaria",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "Según la Disposición Adicional Segunda (Actividades de publicidad), las entidades especializadas acreditadas o autorizadas deberán hacer constar:",
+    "respuesta_a": "La resolución de acreditación o autorización, respectivamente, en cualquier actividad de publicidad y en los conciertos",
+    "respuesta_b": "Únicamente su número de teléfono y CIF en folletos comerciales",
+    "respuesta_c": "El logotipo del Ministerio de Trabajo en tamaño gigante",
+    "respuesta_d": "Ninguna mención administrativa específica en su publicidad",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "¿Cuándo entró en vigor la Orden de 27 de junio de 1997 según su disposición final?",
+    "respuesta_a": "El día siguiente al de su publicación en el «Boletín Oficial del Estado»",
+    "respuesta_b": "El mismo día de su publicación",
+    "respuesta_c": "A los veinte días de su publicación en el BOE",
+    "respuesta_d": "El 1 de enero de 1998",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "¿Quién firmó la Orden de 27 de junio de 1997 en calidad de Ministro?",
+    "respuesta_a": "Javier Arenas Bocanegra (como Ministro de Trabajo y Asuntos Sociales)",
+    "respuesta_b": "Arias-Salgado Montalvo",
+    "respuesta_c": "Manuel Fraga Iribarne",
+    "respuesta_d": "Celso Currás Fernández",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "Según el artículo 3.1 y 6.1, ¿qué obligación general tienen las entidades acreditadas como servicios de prevención o autorizadas para auditorías?",
+    "respuesta_a": "Mantener las condiciones en que se basó su acreditación o autorización y comunicar cualquier modificación",
+    "respuesta_b": "Renovar la acreditación obligatoriamente cada seis meses",
+    "respuesta_c": "Incrementar su plantilla un 20% anual",
+    "respuesta_d": "Cambiar de ubicación cada dos años",
+    "opcion_correcta": "A"
+  },
+  {
+    "Pregunta": "De acuerdo con el artículo 6.3, ¿qué puede hacer la autoridad laboral si se comprueba una irregularidad sustancial en una entidad auditora o si no se corrigen las desviaciones?",
+    "respuesta_a": "Iniciar un expediente e, mediante resolución, suspender o extinguir la autorización otorgada",
+    "respuesta_b": "Aplicar una amonestación verbal sin efectos jurídicos",
+    "respuesta_c": "Retirar temporalmente el carné de conducir a los directivos",
+    "respuesta_d": "Nacionalizar la empresa auditora",
+    "opcion_correcta": "A"
+  }
+]
