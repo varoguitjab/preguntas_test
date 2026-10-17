@@ -4,6 +4,7 @@ let question_file_index = [];
 let questions = [];
 let index = 0;
 
+const current_file_text = document.querySelector('#current-file-text');
 const questionText = document.getElementById('question');
 const option_a = document.querySelector('#option-a p');
 const option_b = document.querySelector('#option-b p');
@@ -46,6 +47,7 @@ document.querySelectorAll('.option').forEach(option => {
 function updateQuestions()
 {
   index = Math.floor(Math.random() * questions.length);
+  current_file_text.innerText = question_files[question_file_index[index]];
   questionText.innerText = questions[index].Pregunta;
   option_a.innerText= questions[index].respuesta_a;
   option_b.innerText= questions[index].respuesta_b;
