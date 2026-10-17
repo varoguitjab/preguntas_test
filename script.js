@@ -1,3 +1,5 @@
+
+let question_files = ['preguntas_decreto_150_2022'];
 let questions = [];
 let index = 0;
 
@@ -7,10 +9,14 @@ const option_b = document.querySelector('#option-b p');
 const option_c = document.querySelector('#option-c p');
 const option_d = document.querySelector('#option-d p');
 try {
-  // El código se detiene aquí hasta que el fetch responde (sin congelar la web)
-  const response = await fetch('./csvs/preguntas_decreto_150_2022.json');
-  questions = await response.json();
-  console.log(questions);
+
+ for (const file_name of question_files) {
+    const response = await fetch('./csvs/'+file_name+'.json');
+    let file_questions = await response.json();
+    questions = questions.concat(file_questions);    
+  }
+  
+  
   
 } catch (error) {
   console.error('Hubo un problema:', error);
