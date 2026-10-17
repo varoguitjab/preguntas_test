@@ -1,4 +1,4 @@
-let question_files = ['preguntas_decreto_150_2022', 'preguntas_orden_30_mayo_2023', 'preguntas_decreto_3741_996', 'preguntas_orden_27_junio_1997'];
+let question_files = ['preguntas_decreto_150_2022', 'preguntas_orden_30_mayo_2023', 'preguntas_decreto_3741_996', 'preguntas_orden_27_junio_1997', 'preguntas_orde_3_outubro_2000_completo'];
 let question_file_index = [];
 let questions = [];
 let index = 0;
