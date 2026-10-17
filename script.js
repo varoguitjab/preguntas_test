@@ -16,10 +16,11 @@ try {
  for (const file_name of question_files) {
     const response = await fetch('./csvs/'+file_name+'.json');
     let file_questions = await response.json();
-    for(const file_question of file_questions)
-    {
-      question_file_index.push(file_index);
+    
+    for (let i = 0; i < file_questions.length; i++) {    
+      file_questions[i].file_index = file_index;
     }
+    
     questions = questions.concat(file_questions);    
     file_index++;
   }
@@ -49,13 +50,7 @@ document.querySelectorAll('.option').forEach(option => {
 function updateQuestions()
 {
   index = Math.floor(Math.random() * questions.length);
-  while(repetidas.indexOf(index) >= 0)
-  {
-    index = Math.floor(Math.random() * questions.length);
-  }
-  repetidas.push(index);
-
-  current_file_text.innerText = question_files[question_file_index[index]].replaceAll('_', ' ');
+  current_file_text.innerText = questions[index].file_index.replaceAll('_', ' ');
   questionText.innerText = questions[index].Pregunta;
   option_a.innerText= questions[index].respuesta_a;
   option_b.innerText= questions[index].respuesta_b;
