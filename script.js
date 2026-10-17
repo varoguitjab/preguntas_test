@@ -1,8 +1,8 @@
-
 let question_files = ['preguntas_decreto_150_2022', 'preguntas_orden_30_mayo_2023', 'preguntas_decreto_3741_996', 'preguntas_orden_27_junio_1997'];
 let question_file_index = [];
 let questions = [];
 let index = 0;
+let repetidas = [];
 
 const current_file_text = document.getElementById('current-file-text');
 const questionText = document.getElementById('question');
@@ -49,6 +49,12 @@ document.querySelectorAll('.option').forEach(option => {
 function updateQuestions()
 {
   index = Math.floor(Math.random() * questions.length);
+  while(repetidas.find(index))
+  {
+    index = Math.floor(Math.random() * questions.length);
+  }
+  repetidas.push(index);
+
   current_file_text.innerText = question_files[question_file_index[index]].replaceAll('_', ' ');
   questionText.innerText = questions[index].Pregunta;
   option_a.innerText= questions[index].respuesta_a;
@@ -61,3 +67,4 @@ function updateQuestions()
     option.classList.remove('incorrect');
   });
 }
+
