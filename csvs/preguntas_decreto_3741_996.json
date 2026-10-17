@@ -1,0 +1,322 @@
+[
+{
+"Pregunta": "¿Cuál es la norma autonómica por la que se aprueba el Reglamento orgánico de las escuelas de educación infantil y de los colegios de educación primaria en Galicia?",
+"respuesta_a": "Decreto 374/1996, de 17 de octubre",
+"respuesta_b": "Decreto 150/2022, de 8 de septiembre",
+"respuesta_c": "Decreto 63/1988, de 17 de marzo",
+"respuesta_d": "Ley Orgánica 9/1995, de 20 de noviembre",
+"opcion_correcta": "A"
+},
+{
+"Pregunta": "¿A propuesta de qué autoridad se dictó el Decreto 374/1996 de 17 de octubre?",
+"respuesta_a": "Del presidente de la Xunta de Galicia",
+"respuesta_b": "Del conselleiro de Educación y Ordenación Universitaria",
+"respuesta_c": "Del Consejo Escolar de Galicia",
+"respuesta_d": "Del Consejo Consultivo de Galicia",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "¿A qué centros se aplica el reglamento orgánico aprobado por el Decreto 374/1996 en relación con los centros privados?",
+"respuesta_a": "A ningún centro privado en ningún aspecto",
+"respuesta_b": "Solo a los centros privados concertados sin excepción",
+"respuesta_c": "A los centros privados concertados y no concertados en lo que no contravenga su legislación específica, con excepciones",
+"respuesta_d": "A todos los centros privados excepto los universitarios",
+"opcion_correcta": "C"
+},
+{
+"Pregunta": "¿Qué escuelas quedan expresamente exceptuadas de la aplicación del reglamento orgánico según la Disposición Adicional Primera?",
+"respuesta_a": "Las escuelas de música y danza dependientes de las corporaciones locales",
+"respuesta_b": "Las escuelas reguladas por la Orden de 29 de febrero de 1996 de la Consellería de Familia, Mujer y Juventud",
+"respuesta_c": "Las escuelas de educación especial de titularidad privada",
+"respuesta_d": "Las escuelas infantiles de ámbito exclusivamente municipal",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "Según la Disposición Adicional Segunda, las referencias hechas en el reglamento a los «tutores legales» se entenderán extendidas a:",
+"respuesta_a": "Únicamente a los progenitores que ostenten la patria potestad",
+"respuesta_b": "Exclusivamente a los tutores nombrados judicialmente",
+"respuesta_c": "Los tutores ordinarios y las personas o instituciones que ostentan la guarda y protección de los menores",
+"respuesta_d": "Los maestros tutores asignados a cada grupo de alumnos",
+"opcion_correcta": "C"
+},
+{
+"Pregunta": "¿Qué norma queda expresamente derogada de forma íntegra por la Disposición Derogatoria Única del Decreto 374/1996?",
+"respuesta_a": "La Ley Orgánica 1/1990, de 3 de octubre",
+"respuesta_b": "El Decreto 63/1988, de 17 de marzo, sobre constitución de colegios rurales agrupados",
+"respuesta_c": "El Decreto 330/2009, de 4 de junio",
+"respuesta_d": "La Ley 1/1983, de 22 de febrero",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "¿Cuándo entra en vigor el Decreto 374/1996 según su Disposición Final Segunda?",
+"respuesta_a": "El mismo día de su firma por el presidente",
+"respuesta_b": "Al día siguiente de su publicación en el Diario Oficial de Galicia",
+"respuesta_c": "A los veinte días de su publicación en el DOG",
+"respuesta_d": "El primer día lectivo del siguiente curso académico",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "¿A quién corresponde la creación de las escuelas de educación infantil y colegios de educación primaria públicos?",
+"respuesta_a": "Al conselleiro de Educación y Ordenación Universitaria por orden",
+"respuesta_b": "Al Gobierno de la Xunta de Galicia mediante decreto",
+"respuesta_c": "Al ayuntamiento de la localidad donde se ubique el centro",
+"respuesta_d": "Al consejo escolar municipal previa autorización",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "Según el artículo 1º.3, ¿a través de qué acto se puede autorizar la creación, supresión o transformación de unidades de educación infantil o primaria?",
+"respuesta_a": "Por decreto de la Xunta de Galicia",
+"respuesta_b": "Por la Consellería de Educación y Ordenación Universitaria",
+"respuesta_c": "Por acuerdo del Consejo Escolar de Galicia",
+"respuesta_d": "Por resolución de la delegación provincial correspondiente",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "¿Qué tipo de centros se pueden agrupar para constituir un Colegio Rural Agrupado (CRA)?",
+"respuesta_a": "Escuelas de educación infantil y colegios de primaria de más de 12 unidades situados en zona urbana",
+"respuesta_b": "Escuelas de educación infantil, colegios de educación primaria y colegios de infantil y primaria de menos de seis unidades situados en ámbitos rurales",
+"respuesta_c": "Únicamente escuelas infantiles de una sola unidad en comarcas de montaña",
+"respuesta_d": "Colegios privados concertados de menos de diez unidades",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "¿Qué personalidad y capacidad tiene el Colegio Rural Agrupado una vez constituido?",
+"respuesta_a": "Carece de personalidad jurídica y depende operativamente del colegio urbano más próximo",
+"respuesta_b": "Gozará de plena capacidad académica, administrativa y de gestión",
+"respuesta_c": "Tendrá autonomía pedagógica pero no capacidad de gestión administrativa",
+"respuesta_d": "Es un órgano meramente consultivo sin funciones de gestión",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "¿Qué ocurre legalmente con las unidades objeto de agrupación al constituirse un colegio rural agrupado?",
+"respuesta_a": "Mantienen su independencia jurídica y administrativa previa",
+"respuesta_b": "Se consideran extinguidas como tales a partir de dicho momento",
+"respuesta_c": "Pasan a ser filiales dependientes de la diputación provincial",
+"respuesta_d": "Quedan en situación de suspensión temporal de actividades",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "¿Dónde cursarán las enseñanzas los alumnos escolarizados en un Colegio Rural Agrupado según el artículo 4º?",
+"respuesta_a": "Obligatoriamente en la sede central donde figure el domicilio administrativo",
+"respuesta_b": "En la localidad de su residencia",
+"respuesta_c": "En la cabecera de comarca más cercana con transporte escolar",
+"respuesta_d": "Donde determine anualmente la asociación de madres y padres",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "¿Cómo se determina numéricamente la plantilla de profesores de un colegio rural agrupado?",
+"respuesta_a": "Será fijada libremente por el director del centro",
+"respuesta_b": "Será equivalente en número al de las unidades que lo constituyan, sin perjuicio del profesorado especialista itinerante",
+"respuesta_c": "Será siempre el doble del número de localidades agrupadas",
+"respuesta_d": "Un profesor por cada quince alumnos matriculados",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "¿Cuál es la referencia de los destinos de los profesores en un Colegio Rural Agrupado?",
+"respuesta_a": "La delegación provincial de educación",
+"respuesta_b": "El colegio rural agrupado, con especificación de la localidad en la que obtuvieron su destino",
+"respuesta_c": "El ayuntamiento en cuyo término municipal residan",
+"respuesta_d": "La zona de inspección educativa",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "¿Cómo se realiza la constitución de los Colegios Rurales Agrupados según el artículo 6º?",
+"respuesta_a": "Únicamente de oficio por el conselleiro de Educación",
+"respuesta_b": "De oficio a propuesta de la delegación provincial o a instancia del órgano competente de uno o varios centros preexistentes",
+"respuesta_c": "A solicitud exclusiva de los alcaldes de los ayuntamientos afectados",
+"respuesta_d": "Por votación directa de la mayoría de los padres del ámbito rural",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "En el procedimiento de constitución de un Colegio Rural Agrupado, ¿el trámite de consulta a padres, profesores y ayuntamientos es?",
+"respuesta_a": "Facultativo",
+"respuesta_b": "Preceptivo",
+"respuesta_c": "Vinculante en todos sus términos",
+"respuesta_d": "Inexistente en el reglamento",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "¿Mediante qué norma se acuerda formalmente la constitución de un Colegio Rural Agrupado?",
+"respuesta_a": "Decreto del Consello de la Xunta",
+"respuesta_b": "Orden de la Consellería de Educación y Ordenación Universitaria",
+"respuesta_c": "Resolución de la Dirección General de Centros",
+"respuesta_d": "Acta fundacional del Consejo Escolar",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "Según el artículo 8º.1, ¿a propuesta de qué órgano aprueba la Consellería de Educación la denominación específica de un centro público?",
+"respuesta_a": "A propuesta del Claustro de profesores",
+"respuesta_b": "A propuesta del Consejo Escolar del centro y con informe favorable del ayuntamiento",
+"respuesta_c": "A propuesta directa del Alcalde",
+"respuesta_d": "A propuesta de la Delegación Provincial de Educación",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "¿Qué limitación existe para la denominación específica de las escuelas de educación infantil o colegios de educación primaria?",
+"respuesta_a": "No pueden tener nombres de personas vivas",
+"respuesta_b": "No pueden existir en el mismo ayuntamiento centros con la misma denominación específica",
+"respuesta_c": "Debe estar redactada exclusivamente en castellano",
+"respuesta_d": "No puede sobrepasar las tres palabras",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "¿En qué lengua deberán utilizar los centros la denominación genérica en sus letreros, impresos y sellos según el artículo 8º.3?",
+"respuesta_a": "En castellano obligatoriamente",
+"respuesta_b": "En lengua gallega",
+"respuesta_c": "Bilingüe de forma indistinta",
+"respuesta_d": "En la lengua que elija el Consejo Escolar",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "¿Qué texto e imagen obligatoria debe figurar en la fachada del edificio de los centros docentes públicos en lugar visible?",
+"respuesta_a": "Solo el nombre específico del colegio y la bandera autonómica",
+"respuesta_b": "Un letrero con el escudo de Galicia y las expresiones: Xunta de Galicia, Consellería de Educación y Ordenación Universitaria y la denominación del centro",
+"respuesta_c": "Únicamente el mapa de la comunidad autónoma de Galicia",
+"respuesta_d": "El nombre del director del centro y el año de construcción",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "¿Cuáles son los órganos unipersonales de gobierno contemplados en el reglamento orgánico?",
+"respuesta_a": "Director, Subdirector y Secretario",
+"respuesta_b": "Director, Jefe de Estudios y Secretario",
+"respuesta_c": "Director, Vicedirector, Secretario y Administrador",
+"respuesta_d": "Director, Coordinador Pedagógico y Secretario",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "¿Cuáles son los órganos colegiados de gobierno de los centros según el artículo 9º?",
+"respuesta_a": "Equipo Directivo y Comisión Permanente",
+"respuesta_b": "Consejo Escolar y Claustro de Profesores",
+"respuesta_c": "Consejo Escolar y Comisión Económica",
+"respuesta_d": "Claustro de Profesores y Equipos de Ciclo",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "En los colegios de educación infantil y primaria (CEIP), ¿cómo se estructuran los órganos de gobierno?",
+"respuesta_a": "Habrá órganos diferenciados e independientes para cada etapa",
+"respuesta_b": "Tendrán órganos de gobierno únicos en los que participarán padres y maestros de ambas etapas educativas",
+"respuesta_c": "Se alternarán anualmente los representantes de cada etapa",
+"respuesta_d": "Habrá un único Consejo Escolar pero Claustros independientes",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "Para determinar el número de unidades de un colegio que imparta educación infantil y educación primaria a efectos de clasificación, ¿qué procedimiento se sigue?",
+"respuesta_a": "Se toma en cuenta únicamente la etapa de Educación Primaria",
+"respuesta_b": "Se sumarán las unidades correspondientes a educación infantil y a educación primaria",
+"respuesta_c": "Se computa cada unidad de infantil como media unidad de primaria",
+"respuesta_d": "Se atiende exclusivamente al número total de alumnos matriculados",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "¿A través de qué órgano se canaliza la participación de padres, maestros, PAS y ayuntamiento en la gestión de los centros?",
+"respuesta_a": "Del Claustro de Profesores",
+"respuesta_b": "Del Consejo Escolar",
+"respuesta_c": "De la Asociación de Padres y Madres",
+"respuesta_d": "Del Equipo Directivo",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "Los órganos unipersonales de gobierno constituyen el equipo directivo del centro. ¿Cuál es la duración general de su mandato?",
+"respuesta_a": "Dos años",
+"respuesta_b": "Tres años en todos los casos",
+"respuesta_c": "Cuatro años, excepto en centros de nueva creación que será de tres años",
+"respuesta_d": "Cinco años renovables",
+"opcion_correcta": "C"
+},
+{
+"Pregunta": "¿Cuál es la duración del mandato del equipo directivo en un centro de nueva creación?",
+"respuesta_a": "Un año",
+"respuesta_b": "Dos años",
+"respuesta_c": "Tres años",
+"respuesta_d": "Cuatro años",
+"opcion_correcta": "C"
+},
+{
+"Pregunta": "¿Qué estructura de órganos unipersonales debe tener un centro docente con ocho o más unidades?",
+"respuesta_a": "Director y Secretario únicamente",
+"respuesta_b": "Director, Jefe de Estudios y Secretario",
+"respuesta_c": "Director, Vicedirector y Secretario",
+"respuesta_d": "Director, Jefe de Estudios, Secretario y Administrador",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "En un centro que disponga de seis o siete unidades, ¿qué órganos unipersonales existen y quién asume la jefatura de estudios?",
+"respuesta_a": "Director y Jefe de Estudios; el Director asume las funciones de Secretario",
+"respuesta_b": "Director y Secretario; el Director asumirá las funciones del Jefe de Estudios",
+"respuesta_c": "Director únicamente, asumiendo todas las competencias",
+"respuesta_d": "Director, Jefe de Estudios y Secretario a tiempo parcial",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "¿Qué norma regula la participación, evaluación y gobierno de los centros públicos mencionada en el artículo 11º del reglamento?",
+"respuesta_a": "Ley Orgánica 1/1990, de 3 de octubre",
+"respuesta_b": "Ley Orgánica 9/1995, de 20 de noviembre",
+"respuesta_c": "Ley 1/1983, de 22 de febrero",
+"respuesta_d": "Orden de 29 de febrero de 1996",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "¿Quién ostenta la máxima representación oficial del centro docente según el reglamento?",
+"respuesta_a": "El Consejo Escolar",
+"respuesta_b": "El Director",
+"respuesta_c": "El Claustro de Profesores",
+"respuesta_d": "El Inspector de Educación asignado",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "¿Quién nombra formalmente al Director, Jefe de Estudios y Secretario de los centros públicos?",
+"respuesta_a": "El Alcalde del Ayuntamiento donde radique el centro",
+"respuesta_b": "El Delegado Provincial de la Consellería de Educación y Ordenación Universitaria",
+"respuesta_c": "El Consejo Escolar mediante votación por mayoría absoluta",
+"respuesta_d": "El Director General de Personal de la Consellería",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "¿A cuál de los siguientes órganos le corresponde aprobar la Programación General Anual del centro?",
+"respuesta_a": "Al Claustro de Profesores",
+"respuesta_b": "Al Director",
+"respuesta_c": "Al Consejo Escolar",
+"respuesta_d": "A la Delegación Provincial de Educación",
+"opcion_correcta": "C"
+},
+{
+"Pregunta": "¿A quién corresponde elaborar la propuesta del Proyecto Educativo del centro?",
+"respuesta_a": "Al Consejo Escolar",
+"respuesta_b": "Al Equipo Directivo",
+"respuesta_c": "Al Claustro de Profesores",
+"respuesta_d": "A la Asociación de Padres y Madres",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "¿Qué órgano tiene la competencia de evaluar la Programación General Anual y la evolución del rendimiento escolar al final del curso?",
+"respuesta_a": "El Claustro de Profesores",
+"respuesta_b": "El Consejo Escolar",
+"respuesta_c": "La Inspección de Educación",
+"respuesta_d": "El Equipo de Orientación Específico",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "¿Cuál de las siguientes funciones corresponde específicamente al Claustro de Profesores?",
+"respuesta_a": "Aprobar el presupuesto del centro",
+"respuesta_b": "Planificar, coordinar, informar y, en su caso, decidir sobre todos los aspectos educativos del centro",
+"respuesta_c": "Resolver los expedientes disciplinarios del alumnado",
+"respuesta_d": "Aprobar el reglamento de régimen interior",
+"opcion_correcta": "B"
+},
+{
+"Pregunta": "¿Quién preside las sesiones del Claustro de Profesores y del Consejo Escolar?",
+"respuesta_a": "El Secretario del centro",
+"respuesta_b": "El Jefe de Estudios",
+"respuesta_c": "El Director del centro",
+"respuesta_d": "El concejal representante del Ayuntamiento",
+"opcion_correcta": "C"
+},
+{
+"Pregunta": "¿Quién ejerce la secretaría con voz y voto en el Consejo Escolar?",
+"respuesta_a": "El funcionario de administración que determine el ayuntamiento",
+"respuesta_b": "El Secretario del centro",
+"respuesta_c": "El maestro de menor edad del centro",
+"respuesta_d": "Un representante elegido entre las familias",
+"opcion_correcta": "B"
+}
+]
