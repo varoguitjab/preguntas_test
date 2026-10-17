@@ -1,5 +1,6 @@
 
 let question_files = ['preguntas_decreto_150_2022', 'preguntas_orden_30_mayo_2023', 'preguntas_decreto_3741_996', 'preguntas_orden_27_junio_1997'];
+let question_file_index = [];
 let questions = [];
 let index = 0;
 
@@ -13,6 +14,10 @@ try {
  for (const file_name of question_files) {
     const response = await fetch('./csvs/'+file_name+'.json');
     let file_questions = await response.json();
+    for(const file_question of file_questions)
+    {
+      question_file_index.push(1);
+    }
     questions = questions.concat(file_questions);    
   }
   
