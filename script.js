@@ -49,7 +49,7 @@ document.querySelectorAll('.option').forEach(option => {
 function updateQuestions()
 {
   index = Math.floor(Math.random() * questions.length);
-  current_file_text.innerText = question_files[question_file_index[index]].replace('_', ' ');
+  current_file_text.innerText = question_files[question_file_index[index]].replaceAll('_', ' ');
   questionText.innerText = questions[index].Pregunta;
   option_a.innerText= questions[index].respuesta_a;
   option_b.innerText= questions[index].respuesta_b;
