@@ -49,7 +49,7 @@ document.querySelectorAll('.option').forEach(option => {
 function updateQuestions()
 {
   index = Math.floor(Math.random() * questions.length);
-  while(repetidas.find(index))
+  while(repetidas.indexOf(index))
   {
     index = Math.floor(Math.random() * questions.length);
   }
