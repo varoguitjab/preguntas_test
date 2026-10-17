@@ -12,14 +12,16 @@ const option_c = document.querySelector('#option-c p');
 const option_d = document.querySelector('#option-d p');
 try {
 
+ let file_index = 0;
  for (const file_name of question_files) {
     const response = await fetch('./csvs/'+file_name+'.json');
     let file_questions = await response.json();
     for(const file_question of file_questions)
     {
-      question_file_index.push(1);
+      question_file_index.push(file_index);
     }
     questions = questions.concat(file_questions);    
+    file_index++;
   }
   
   
@@ -47,7 +49,7 @@ document.querySelectorAll('.option').forEach(option => {
 function updateQuestions()
 {
   index = Math.floor(Math.random() * questions.length);
-  current_file_text.innerText = question_files[question_file_index[index]];
+  current_file_text.innerText = question_files[question_file_index[index]].replace('_', ' ');
   questionText.innerText = questions[index].Pregunta;
   option_a.innerText= questions[index].respuesta_a;
   option_b.innerText= questions[index].respuesta_b;
